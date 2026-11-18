@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+*.md text encoding=utf-8
+*.java text encoding=utf-8
+*.xml text encoding=utf-8
+*.properties text encoding=utf-8
+*.yml text encoding=utf-8
+*.yaml text encoding=utf-8
+*.json text encoding=utf-8
+*.txt text encoding=utf-8
